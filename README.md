@@ -1,6 +1,6 @@
 # ☝🏼 **Design Portfolio**
 
-> 👋 Hi, I’m Andrew - a Frontend Engineer based out of Los Angeles.
+> 👋 Hi, I’m Andrew — a front-end engineer based in Los Angeles.
 > 
 
 ↓ Click into each project to learn more about its creation, goal and current version.
@@ -12,15 +12,15 @@
 
 [![Website redesign](images/earth.jpg ':class=banner-tall-image')](website-redesign.md)
 🌎 **Drop-a-pin on 3D earth**<br>
-<span class='badge' style='--badge-bg-color: #daecda; --badge-text-color: #1c3728;'> UI/UX</span> <span class='badge' style='--badge-bg-color: #e7ddee; --badge-text-color: #412354;'> Brand</span> 
+<span class='badge' style='--badge-bg-color: #daecda; --badge-text-color: #1c3728;'> React.js</span> <span class='badge' style='--badge-bg-color: #e7ddee; --badge-text-color: #412354;'> Django</span> 
 
 </div>
 
 <div class="column-right">
 
 [![3D Art](images/account.jpg ':class=banner-tall-image')](3d-art.md)
-🖼️ **3D Art**  
-<span class='badge' style='--badge-bg-color: #daecda; --badge-text-color: #1c3728;'> 3D</span> <span class='badge' style='--badge-bg-color: #d1e4ee; --badge-text-color: #183246;'> Blender</span> 
+📱 **Auth and license key system**  
+<span class='badge' style='--badge-bg-color: #daecda; --badge-text-color: #1c3728;'> Mobile app</span> <span class='badge' style='--badge-bg-color: #d1e4ee; --badge-text-color: #183246;'> JSON Web Token</span> 
 
 </div>
 </div>
@@ -29,8 +29,8 @@
 <div class="column">
 
 [![Rebranding](images/to-do.jpg ':class=banner-tall-image')](rebranding.md)
-™️ **Rebranding**  
-<span class='badge' style='--badge-bg-color: #e7ddee; --badge-text-color: #412354;'> Brand</span> <span class='badge' style='--badge-bg-color: #f1efef; --badge-text-color: #322f2b;'> Marketing</span> 
+✅ **Classic to-do list app**  
+<span class='badge' style='--badge-bg-color: #e7ddee; --badge-text-color: #412354;'> Node.js</span> <span class='badge' style='--badge-bg-color: #f1efef; --badge-text-color: #322f2b;'> React.js</span> 
 
 </div>
 
