@@ -28,7 +28,7 @@
 <div class="row">
 <div class="column">
 
-[![Rebranding](images/3.jpg ':class=banner-tall-image')](rebranding.md)
+[![Rebranding](images/3.jpg ':class=banner-tall-image')](./projects/test.md)
 ❓ **Online test taker**  
 <span class='badge' style='--badge-bg-color: #e7ddee; --badge-text-color: #412354;'> CSS</span> <span class='badge' style='--badge-bg-color: #f1efef; --badge-text-color: #322f2b;'> React.js</span> 
 
