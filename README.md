@@ -18,7 +18,7 @@
 
 <div class="column-right">
 
-[![3D Art](images/2.jpg ':class=banner-tall-image')](3d-art.md)
+[![3D Art](images/2.jpg ':class=banner-tall-image')](./projects/account.md)
 📱 **Auth and license key system**  
 <span class='badge' style='--badge-bg-color: #daecda; --badge-text-color: #1c3728;'> Mobile app</span> <span class='badge' style='--badge-bg-color: #d1e4ee; --badge-text-color: #183246;'> JSON Web Token</span> 
 
