@@ -16,6 +16,3 @@ Tags &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class='badge' style='--badge-bg-
 ↓ This feature displays a logged-in admin view where all dropped pins are listed in a structured dashboard, allowing admins to review, manage, or analyze pin data stored in the system
 
 ![](../images/1-3.jpg ':size=80%')
-
-* List item 1
-* List item 2
