@@ -1,6 +1,6 @@
 # ☝🏼 **Design Portfolio**
 
-> 👋 Hi, I’m Mary - a web designer based out of San Francisco.
+> 👋 Hi, I’m Andrew - a Front-End Engineer based out of Los Angeles.
 > 
 
 ↓ Click into each project to learn more about its creation, goal and current version.
@@ -11,7 +11,7 @@
 <div class="column">
 
 [![Website redesign](images/earth.jpg ':class=banner-tall-image')](website-redesign.md)
-🎨 **Website redesign**  
+🌎 **Drop-a-pin on a 3D globe**
 <span class='badge' style='--badge-bg-color: #daecda; --badge-text-color: #1c3728;'> UI/UX</span> <span class='badge' style='--badge-bg-color: #e7ddee; --badge-text-color: #412354;'> Brand</span> 
 
 </div>
