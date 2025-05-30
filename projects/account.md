@@ -1,4 +1,4 @@
-← [back to home](../)
+← [back to home](../README.md)
 
 # 📱 **Auth and license key system**
 
