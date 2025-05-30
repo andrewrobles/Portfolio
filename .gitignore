@@ -6,3 +6,6 @@
 .vscode?
 .obsidian
 .obsidian?
+# Node Redirect App  #
+######################
+node_modules
