@@ -1,4 +1,4 @@
-# ☝🏼 **Design Portfolio**
+# ☝🏼 **Front-End Portfolio**
 
 > 👋 Hi, I’m Andrew — a front-end engineer based in Los Angeles.
 > 
@@ -10,7 +10,7 @@
 <div class="row">
 <div class="column">
 
-[![Website redesign](images/1.jpg ':class=banner-tall-image')](website-redesign.md)
+[![Website redesign](images/1.jpg ':class=banner-tall-image')](projects/earth.md)
 🌎 **Drop-a-pin on 3D earth**<br>
 <span class='badge' style='--badge-bg-color: #daecda; --badge-text-color: #1c3728;'> React.js</span> <span class='badge' style='--badge-bg-color: #e7ddee; --badge-text-color: #412354;'> Django</span> 
 
