@@ -1,4 +1,4 @@
-← [back to home](../README.md)
+← [back to home](http://andrewrobles.com)
 
 # 📱 **Auth and license key system**
 
