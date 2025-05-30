@@ -1,6 +1,6 @@
 # ☝🏼 **Front-End Portfolio**
 
-> 👋 Hi, I’m Andrew — a front-end engineer based in Los Angeles.
+> 👋 Hi, I’m Andrew — a Front-End Engineer based in Los Angeles.
 > 
 
 ↓ Click into each project to learn more about its creation, goal and current version.
