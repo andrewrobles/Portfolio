@@ -10,7 +10,7 @@
 <div class="row">
 <div class="column">
 
-[![Website redesign](images/earth.jpg ':class=banner-tall-image')](website-redesign.md)
+[![Website redesign](images/1.jpg ':class=banner-tall-image')](website-redesign.md)
 🌎 **Drop-a-pin on 3D earth**<br>
 <span class='badge' style='--badge-bg-color: #daecda; --badge-text-color: #1c3728;'> React.js</span> <span class='badge' style='--badge-bg-color: #e7ddee; --badge-text-color: #412354;'> Django</span> 
 
@@ -18,7 +18,7 @@
 
 <div class="column-right">
 
-[![3D Art](images/account.jpg ':class=banner-tall-image')](3d-art.md)
+[![3D Art](images/2.jpg ':class=banner-tall-image')](3d-art.md)
 📱 **Auth and license key system**  
 <span class='badge' style='--badge-bg-color: #daecda; --badge-text-color: #1c3728;'> Mobile app</span> <span class='badge' style='--badge-bg-color: #d1e4ee; --badge-text-color: #183246;'> JSON Web Token</span> 
 
@@ -28,9 +28,9 @@
 <div class="row">
 <div class="column">
 
-[![Rebranding](images/to-do.jpg ':class=banner-tall-image')](rebranding.md)
-✅ **Classic to-do list app**  
-<span class='badge' style='--badge-bg-color: #e7ddee; --badge-text-color: #412354;'> Node.js</span> <span class='badge' style='--badge-bg-color: #f1efef; --badge-text-color: #322f2b;'> React.js</span> 
+[![Rebranding](images/3.jpg ':class=banner-tall-image')](rebranding.md)
+❓ **Online test taker**  
+<span class='badge' style='--badge-bg-color: #e7ddee; --badge-text-color: #412354;'> CSS</span> <span class='badge' style='--badge-bg-color: #f1efef; --badge-text-color: #322f2b;'> React.js</span> 
 
 </div>
 
