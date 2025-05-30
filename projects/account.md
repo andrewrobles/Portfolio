@@ -1,4 +1,4 @@
-← [back to home](http://andrewrobles.com)
+← [back to home](https://andrewrobles.com)
 
 # 📱 **Auth and license key system**
 
