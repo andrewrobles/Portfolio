@@ -5,7 +5,7 @@
 
 ↓ Click into each project to learn more about its creation, goal and current version.
 
-## **My projects** {docsify-ignore}
+## **My projects:** {docsify-ignore}
 
 <div class="row">
 <div class="column">
