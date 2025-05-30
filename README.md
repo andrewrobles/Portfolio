@@ -11,7 +11,7 @@
 <div class="column">
 
 [![Website redesign](images/earth.jpg ':class=banner-tall-image')](website-redesign.md)
-🌎 **Drop-a-pin on a 3D globe**
+🌎 **Drop-a-pin on 3D earth**<br>
 <span class='badge' style='--badge-bg-color: #daecda; --badge-text-color: #1c3728;'> UI/UX</span> <span class='badge' style='--badge-bg-color: #e7ddee; --badge-text-color: #412354;'> Brand</span> 
 
 </div>
